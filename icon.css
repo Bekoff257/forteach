@@ -1,0 +1,18 @@
+.icons{
+    display: inline-block;
+    width: 27px;
+    height: 40px;
+    color: #FEC62D;
+    mask-size: cover;
+    mask-position: center;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
+    -webkit-mask-position: center;
+    -webkit-mask-repeat: no-repeat;
+}
+
+.icon-play{
+    color: #FEC62D;
+    mask-image: url(/icons/arrow\ \(2\).svg);
+    -webkit-mask-image: url(/icons/arrow\ \(2\).svg);
+}
